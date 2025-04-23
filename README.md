@@ -13,6 +13,7 @@
 | HypeSquad Events           | ![badge](png/hypesquad_events.png)     | ❌         | Attended live Discord events                                     |
 | Mod Program Alumni         | ![badge](png/moderator_programs_aluminum.png) | ❌     | Part of Discord Mod Program before it closed                     |
 | Partnered Server Owner     | ![badge](png/partner_server_owner.png) | ❌         | Owned a Discord Partnered server                                 |
+| Originally known as        | ![badge](png/originally_known_as.png) | ❌          | Given to people when they changed to the new username system       |
 
 
 | Title          | Badge                             | Earned by                                  |
