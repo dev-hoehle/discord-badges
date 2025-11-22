@@ -4,19 +4,20 @@
 |----------------------------|----------------------------------------|------------|------------------------------------------------------------------|
 | Active Developer           | ![badge](png/active_developer.png)     | ✅         | Have an active application using global commands in last 30 days |
 | Bug Hunter                 | ![badge](png/bug_hunter.png)           | ✅         | Reach bug hunter level in Discord Testers Program                |
-| Golden Bug Hunter          | ![badge](png/golden_bug_hunter.png)    | ✅         | Reach bug scholar level in Discord Testers Program               |
 | Complete a Quest           | ![badge](png/complete_a_quest.png)     | ✅         | Complete a Discord gift inventory quest                          |
 | Discord Staff              | ![badge](png/discord_staff.png)        | ✅         | Be a Discord staff member                                        |
 | Early Supporter            | ![badge](png/early_supporter.png)      | ❌         | Had Nitro before October 10th, 2018                              |
 | Early Verified Bot Dev     | ![badge](png/early_verified_bot_developer.png) | ❌ | Owned a verified bot before August 19th, 2020                    |
-| HypeSquad Brilliance       | ![badge](png/hypesquad_brilliance.png) | ✅         | Join HypeSquad and get Brilliance house                          |
-| HypeSquad Balance          | ![badge](png/hypesquad_balance.png)    | ✅         | Join HypeSquad and get Balance house                             |
-| HypeSquad Bravery          | ![badge](png/hypesquad_bravery.png)    | ✅         | Join HypeSquad and get Bravery house                             |
+| Golden Bug Hunter          | ![badge](png/golden_bug_hunter.png)    | ✅         | Reach bug scholar level in Discord Testers Program               |
+| HypeSquad Balance          | ![badge](png/hypesquad_balance.png)    | ❌         | Join HypeSquad and get Balance house                             |
+| HypeSquad Bravery          | ![badge](png/hypesquad_bravery.png)    | ❌         | Join HypeSquad and get Bravery house                             |
+| HypeSquad Brilliance       | ![badge](png/hypesquad_brilliance.png) | ❌         | Join HypeSquad and get Brilliance house                          |
 | HypeSquad Events           | ![badge](png/hypesquad_events.png)     | ❌         | Attended live Discord events                                     |
+| Lootboxes                  | ![badge](png/lootboxes.png)            | ❌         | Unlocked all lootbox rewards during 2024 April Fools event       |
 | Mod Program Alumni         | ![badge](png/moderator_programs_aluminum.png) | ❌     | Part of Discord Mod Program before it closed                     |
+| Orbs Apprentice            | ![badge](png/orbs_apprentice.png)      | ✅         | Buy with discrod orbs                                            |
+| Originally known as        | ![badge](png/originally_known_as.png)  | ❌         | Given to people when they changed to the new username system     |
 | Partnered Server Owner     | ![badge](png/partner_server_owner.png) | ❌         | Owned a Discord Partnered server                                 |
-| Originally known as        | ![badge](png/originally_known_as.png) | ❌          | Given to people when they changed to the new username system       |
-| Orbs Apprentice        | ![badge](png/orbs_apprentice.png) | ✅          | Buy with discrod orbs       |
 
 
 ## Nitro Badges
@@ -55,3 +56,4 @@
 |----------------------------------|--------------------------------------------------|--------------------------------------------------------|
 | Supports Application Commands   | ![badge](png/supports_application_commands.png)  | Bot supports slash commands                            |
 | Uses AutoMod                     | ![badge](png/uses_automod.png)                   | Bot uses Discord's AutoMod features                    |
+| This server has "App Name" premium              | ![badge](png/application_premium.png)            | App offers premium features via Discord's monetization |
