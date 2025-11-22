@@ -1,3 +1,5 @@
+## User Badges
+
 | Title                       | Badge                                 | Obtainable | Earned by                                                       |
 |----------------------------|----------------------------------------|------------|------------------------------------------------------------------|
 | Active Developer           | ![badge](png/active_developer.png)     | ✅         | Have an active application using global commands in last 30 days |
@@ -17,6 +19,8 @@
 | Orbs Apprentice        | ![badge](png/orbs_apprentice.png) | ✅          | Buy with discrod orbs       |
 
 
+## Nitro Badges
+
 | Title          | Badge                             | Earned by                                  |
 |---------------|------------------------------------|---------------------------------------------|
 | Nitro          | ![badge](png/nitro.png)           | Having an active Discord Nitro subscription |
@@ -30,6 +34,8 @@
 | Ruby (60m)     | ![badge](png/nitro_ruby.png)       | Subscribed to Nitro for 60 months           |
 
 
+## Boosting Badges
+
 | Title              | Badge                              | Earned by                        |
 |-------------------|-------------------------------------|----------------------------------|
 | Boosting (1m)     | ![badge](png/boost_1_months.png)     | Boosted a server for 1 month     |
@@ -42,6 +48,8 @@
 | Boosting (18m)    | ![badge](png/boost_18_months.png)    | Boosted a server for 1y 6 months |
 | Boosting (24m)    | ![badge](png/boost_24_months.png)    | Boosted a server for 2 years     |
 
+
+## Discord Application Badges
 
 | Title                            | Badge                                           | Earned by                                              |
 |----------------------------------|--------------------------------------------------|--------------------------------------------------------|
