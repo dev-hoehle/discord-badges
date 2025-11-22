@@ -14,6 +14,7 @@
 | Mod Program Alumni         | ![badge](png/moderator_programs_aluminum.png) | ❌     | Part of Discord Mod Program before it closed                     |
 | Partnered Server Owner     | ![badge](png/partner_server_owner.png) | ❌         | Owned a Discord Partnered server                                 |
 | Originally known as        | ![badge](png/originally_known_as.png) | ❌          | Given to people when they changed to the new username system       |
+| Orbs Apprentice        | ![badge](png/orbs_apprentice.png) | ✅          | Buy with discrod orbs       |
 
 
 | Title          | Badge                             | Earned by                                  |
