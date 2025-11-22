@@ -41,3 +41,9 @@
 | Boosting (15m)    | ![badge](png/boost_15_months.png)    | Boosted a server for 1y 3 months |
 | Boosting (18m)    | ![badge](png/boost_18_months.png)    | Boosted a server for 1y 6 months |
 | Boosting (24m)    | ![badge](png/boost_24_months.png)    | Boosted a server for 2 years     |
+
+
+| Title                            | Badge                                           | Earned by                                              |
+|----------------------------------|--------------------------------------------------|--------------------------------------------------------|
+| Supports Application Commands   | ![badge](png/supports_application_commands.png)  | Bot supports slash commands                            |
+| Uses AutoMod                     | ![badge](png/uses_automod.png)                   | Bot uses Discord's AutoMod features                    |
