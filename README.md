@@ -2,7 +2,7 @@
 
 | Title                       | Badge                                 | Obtainable | Earned by                                                       |
 |----------------------------|----------------------------------------|------------|------------------------------------------------------------------|
-| Active Developer           | ![badge](png/active_developer.png)     | ✅         | Have an active application using global commands in last 30 days |
+| Active Developer           | ![badge](png/active_developer.png)     | ❌         | Have an active application using global commands in last 30 days |
 | Bug Hunter                 | ![badge](png/bug_hunter.png)           | ✅         | Reach bug hunter level in Discord Testers Program                |
 | Complete a Quest           | ![badge](png/complete_a_quest.png)     | ✅         | Complete a Discord gift inventory quest                          |
 | Discord Staff              | ![badge](png/discord_staff.png)        | ✅         | Be a Discord staff member                                        |
