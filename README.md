@@ -28,11 +28,11 @@
 | Bronze (1m)    | ![badge](png/nitro_bronze.png)     | Subscribed to Nitro for 1 month             |
 | Silver (3m)    | ![badge](png/nitro_silver.png)     | Subscribed to Nitro for 3 months            |
 | Gold (6m)      | ![badge](png/nitro_gold.png)       | Subscribed to Nitro for 6 months            |
-| Opal (9m)      | ![badge](png/nitro_opal.png)       | Subscribed to Nitro for 9 months            |
-| Platinum (12m) | ![badge](png/nitro_platinum.png)   | Subscribed to Nitro for 12 months           |
-| Diamond (24m)  | ![badge](png/nitro_diamond.png)    | Subscribed to Nitro for 24 months           |
-| Emerald (36m)  | ![badge](png/nitro_emerald.png)    | Subscribed to Nitro for 36 months           |
-| Ruby (60m)     | ![badge](png/nitro_ruby.png)       | Subscribed to Nitro for 60 months           |
+| Platinum (12m) | ![badge](png/nitro_platinum.png)   | Subscribed to Nitro for 1 year              |
+| Diamond (24m)  | ![badge](png/nitro_diamond.png)    | Subscribed to Nitro for 2 years             |
+| Emerald (36m)  | ![badge](png/nitro_emerald.png)    | Subscribed to Nitro for 3 years             |
+| Ruby (60m)     | ![badge](png/nitro_ruby.png)       | Subscribed to Nitro for 5 years             |
+| Opal (6+ yrs)  | ![badge](png/nitro_opal.png)       | Subscribed to Nitro for 6+ years            |
 
 
 ## Boosting Badges
