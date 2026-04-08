@@ -14,7 +14,7 @@
 | HypeSquad Brilliance       | ![badge](png/hypesquad_brilliance.png) | ❌         | Join HypeSquad and get Brilliance house                          |
 | HypeSquad Events           | ![badge](png/hypesquad_events.png)     | ❌         | Attended live Discord events                                     |
 | Lootboxes                  | ![badge](png/lootboxes.png)            | ❌         | Unlocked all lootbox rewards during 2024 April Fools event       |
-| Last Meadow Online         | ![badge](png/last_meadow.png)          | ✅         | Start the game and complete some level                           |
+| Last Meadow Online         | ![badge](png/last_meadow.png)          | ❌         | Start the game and complete some level                           |
 | Mod Program Alumni         | ![badge](png/moderator_programs_aluminum.png) | ❌     | Part of Discord Mod Program before it closed                     |
 | Orbs Apprentice            | ![badge](png/orbs_apprentice.png)      | ✅         | Buy with discord orbs                                            |
 | Originally known as        | ![badge](png/originally_known_as.png)  | ❌         | Given to people when they changed to the new username system     |
