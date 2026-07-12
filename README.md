@@ -14,7 +14,7 @@
 | HypeSquad Brilliance       | ![badge](png/hypesquad_brilliance.png) | ❌         | Join HypeSquad and get Brilliance house                          |
 | HypeSquad Events           | ![badge](png/hypesquad_events.png)     | ❌         | Attended live Discord events                                     |
 | Lootboxes                  | ![badge](png/lootboxes.png)            | ❌         | Unlocked all lootbox rewards during 2024 April Fools event       |
-| Last Meadow Online         | ![badge](png/last_meadow.png)          | ❌         | Start the game and complete some level                           |
+| Last Meadow Online         | <img src="png/last_meadow.png" alt="Last Meadow Online badge" width="56"> | ❌ | Start the game and complete some level                           |
 | Mod Program Alumni         | ![badge](png/moderator_programs_aluminum.png) | ❌     | Part of Discord Mod Program before it closed                     |
 | Orbs Apprentice            | ![badge](png/orbs_apprentice.png)      | ✅         | Buy with discord orbs                                            |
 | Originally known as        | ![badge](png/originally_known_as.png)  | ❌         | Given to people when they changed to the new username system     |
@@ -25,12 +25,12 @@
 
 | Title    | Badge                              | Earned by                                                      |
 |----------|------------------------------------|----------------------------------------------------------------|
-| Patron   | ![badge](png/gifting_patron.png)   | Send 1 gift to anyone from the Shop or their profile Wishlist  |
-| Champion | ![badge](png/gifting_champion.png) | Send 2 gifts to anyone from the Shop or their profile Wishlist |
-| Luminary | ![badge](png/gifting_luminary.png) | Send 3 gifts to anyone from the Shop or their profile Wishlist |
-| Icon     | ![badge](png/gifting_icon.png)     | Send 6 gifts to anyone from the Shop or their profile Wishlist |
-| Hero     | ![badge](png/gifting_hero.png)     | Send 10 gifts to anyone from the Shop or their profile Wishlist|
-| Legend   | ![badge](png/gifting_legend.png)   | Send 20 gifts to anyone from the Shop or their profile Wishlist|
+| Patron   | <img src="png/gifting_patron.png" alt="Patron badge" width="72">     | Send 1 gift to anyone from the Shop or their profile Wishlist  |
+| Champion | <img src="png/gifting_champion.png" alt="Champion badge" width="72"> | Send 2 gifts to anyone from the Shop or their profile Wishlist |
+| Luminary | <img src="png/gifting_luminary.png" alt="Luminary badge" width="72"> | Send 3 gifts to anyone from the Shop or their profile Wishlist |
+| Icon     | <img src="png/gifting_icon.png" alt="Icon badge" width="72">         | Send 6 gifts to anyone from the Shop or their profile Wishlist |
+| Hero     | <img src="png/gifting_hero.png" alt="Hero badge" width="72">         | Send 10 gifts to anyone from the Shop or their profile Wishlist|
+| Legend   | <img src="png/gifting_legend.png" alt="Legend badge" width="72">     | Send 20 gifts to anyone from the Shop or their profile Wishlist|
 
 
 ## Nitro Badges
