@@ -21,6 +21,18 @@
 | Partnered Server Owner     | ![badge](png/partner_server_owner.png) | ❌         | Owned a Discord Partnered server                                 |
 
 
+## Gifting Badges
+
+| Title    | Badge                              | Earned by                                                      |
+|----------|------------------------------------|----------------------------------------------------------------|
+| Patron   | ![badge](png/gifting_patron.png)   | Send 1 gift to anyone from the Shop or their profile Wishlist  |
+| Champion | ![badge](png/gifting_champion.png) | Send 2 gifts to anyone from the Shop or their profile Wishlist |
+| Luminary | ![badge](png/gifting_luminary.png) | Send 3 gifts to anyone from the Shop or their profile Wishlist |
+| Icon     | ![badge](png/gifting_icon.png)     | Send 6 gifts to anyone from the Shop or their profile Wishlist |
+| Hero     | ![badge](png/gifting_hero.png)     | Send 10 gifts to anyone from the Shop or their profile Wishlist|
+| Legend   | ![badge](png/gifting_legend.png)   | Send 20 gifts to anyone from the Shop or their profile Wishlist|
+
+
 ## Nitro Badges
 
 | Title          | Badge                             | Earned by                                  |
