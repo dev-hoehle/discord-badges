@@ -63,6 +63,78 @@
 | Boosting (24m)    | ![badge](png/boost_24_months.png)    | Boosted a server for 2 years     |
 
 
+## Account Age Badges
+
+A leveled badge that reflects how long you have had your Discord account, maxing out at 10+ years. Currently in beta.
+
+| Title        | Badge                                          | Earned by                              |
+|--------------|------------------------------------------------|----------------------------------------|
+| Seed         | ![badge](png/account_age_seed.png)             | Having a Discord account for 1 year    |
+| Sprout       | ![badge](png/account_age_sprout.png)           | Having a Discord account for 2 years   |
+| Bud          | ![badge](png/account_age_bud.png)              | Having a Discord account for 3 years   |
+| Sapling      | ![badge](png/account_age_sapling.png)          | Having a Discord account for 4 years   |
+| Blossom      | ![badge](png/account_age_blossom.png)          | Having a Discord account for 5 years   |
+| Redwood      | ![badge](png/account_age_redwood.png)          | Having a Discord account for 6 years   |
+| Sequoia      | ![badge](png/account_age_sequoia.png)          | Having a Discord account for 7 years   |
+| Bristlecone  | ![badge](png/account_age_bristlecone.png)      | Having a Discord account for 8 years   |
+| Stromatolite | ![badge](png/account_age_stromatolite.png)     | Having a Discord account for 9 years   |
+| Primordial   | ![badge](png/account_age_primordial.png)       | Having a Discord account for 10+ years |
+
+
+## Streaming Badges
+
+A leveled badge earned by streaming to other users, leveling up with the total hours streamed. Currently in beta.
+
+| Title       | Badge                                       | Earned by                             |
+|-------------|---------------------------------------------|---------------------------------------|
+| Newcomer    | ![badge](png/streaming_newcomer.png)        | Stream to other users for 1 hour      |
+| Fledgling   | ![badge](png/streaming_fledgling.png)       | Stream to other users for 5 hours     |
+| Breakout    | ![badge](png/streaming_breakout.png)        | Stream to other users for 20 hours    |
+| Standout    | ![badge](png/streaming_standout.png)        | Stream to other users for 75 hours    |
+| Trendsetter | ![badge](png/streaming_trendsetter.png)     | Stream to other users for 150 hours   |
+| Headliner   | ![badge](png/streaming_headliner.png)       | Stream to other users for 300 hours   |
+| Star        | ![badge](png/streaming_star.png)            | Stream to other users for 500 hours   |
+| Sensation   | ![badge](png/streaming_sensation.png)       | Stream to other users for 1,000 hours |
+| Visionary   | ![badge](png/streaming_visionary.png)       | Stream to other users for 2,000 hours |
+| Phenomenon  | ![badge](png/streaming_phenomenon.png)      | Stream to other users for 5,000+ hours|
+
+
+## Game Time Badges
+
+A leveled badge earned by playing detectable PC games with Discord open, leveling up with the total hours played. Currently in beta.
+
+| Title        | Badge                                        | Earned by                                                          |
+|--------------|----------------------------------------------|--------------------------------------------------------------------|
+| Casual       | ![badge](png/game_time_casual.png)           | Play 1 hour of detectable PC games with Discord open               |
+| Recreational | ![badge](png/game_time_recreational.png)     | Play 5 hours of detectable PC games with Discord open              |
+| Dedicated    | ![badge](png/game_time_dedicated.png)        | Play 20 hours of detectable PC games with Discord open             |
+| Committed    | ![badge](png/game_time_committed.png)        | Play 75 hours of detectable PC games with Discord open             |
+| Serious      | ![badge](png/game_time_serious.png)          | Play 150 hours of detectable PC games with Discord open            |
+| Devoted      | ![badge](png/game_time_devoted.png)          | Play 300 hours of detectable PC games with Discord open            |
+| Seasoned     | ![badge](png/game_time_seasoned.png)         | Play 500 hours of detectable PC games with Discord open            |
+| Ironclad     | ![badge](png/game_time_ironclad.png)         | Play 1,000 hours of detectable PC games with Discord open          |
+| Unshakeable  | ![badge](png/game_time_unshakeable.png)      | Play 2,000 hours of detectable PC games with Discord open          |
+| Eternal      | ![badge](png/game_time_eternal.png)          | Play 5,000+ hours of detectable PC games with Discord open         |
+
+
+## Game Variety Badges
+
+A leveled badge earned by playing detectable PC games with Discord open, leveling up with the number of different games played. Currently in beta.
+
+| Title        | Badge                                          | Earned by                                               |
+|--------------|------------------------------------------------|---------------------------------------------------------|
+| Sampler      | ![badge](png/game_variety_sampler.png)         | Play 2 detectable PC games with Discord open            |
+| Dabbler      | ![badge](png/game_variety_dabbler.png)         | Play 5 detectable PC games with Discord open            |
+| Enthusiast   | ![badge](png/game_variety_enthusiast.png)      | Play 10 detectable PC games with Discord open           |
+| Ranger       | ![badge](png/game_variety_ranger.png)          | Play 15 detectable PC games with Discord open           |
+| Explorer     | ![badge](png/game_variety_explorer.png)        | Play 20 detectable PC games with Discord open           |
+| Adventurer   | ![badge](png/game_variety_adventurer.png)      | Play 30 detectable PC games with Discord open           |
+| Voyager      | ![badge](png/game_variety_voyager.png)         | Play 40 detectable PC games with Discord open           |
+| Maverick     | ![badge](png/game_variety_maverick.png)        | Play 60 detectable PC games with Discord open           |
+| Polymath     | ![badge](png/game_variety_polymath.png)        | Play 80 detectable PC games with Discord open           |
+| Universalist | ![badge](png/game_variety_universalist.png)    | Play 100+ detectable PC games with Discord open         |
+
+
 ## Discord Application Badges
 
 | Title                            | Badge                                           | Earned by                                              |
